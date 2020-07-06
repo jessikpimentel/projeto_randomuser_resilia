@@ -7,8 +7,10 @@ body{
     color: #ffffff;
 }
 
-
-
 .picture{
  border: solid 2px black;
+}
+
+.distance{
+    font-weight: bold;
 }
